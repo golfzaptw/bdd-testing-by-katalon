@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Toast Message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2a6a840-5aa6-4a04-b15b-ee6418a9ad5c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe35ebb4-24d0-41da-9ec0-beb6681c0371</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>
